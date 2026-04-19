@@ -1,15 +1,8 @@
----
-layout: page
-title: Patrick Phong Nguyen
-permalink: /
----
-
-# PHONG HONG NGUYEN (PATRICK)
+# [PHONG HONG NGUYEN (PATRICK)](https://phonghong.github.io)
 
 **Technical Lead / Principal / Senior Software Engineer**  
 📧 phong.hong.us@gmail.com  
-📞 +1 (657) 259-7436  
-🔗 [LinkedIn](https://www.linkedin.com/in/phong-n)
+🔗 LinkedIn https://www.linkedin.com/in/phong-n  
 
 ---
 
