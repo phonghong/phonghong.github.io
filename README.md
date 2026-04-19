@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Experienced Software Engineer with 20+ years of experience designing and building scalable backend systems, microservices, and high-traffic platforms. Proven track record leading engineering teams, delivering cloud-native solutions (AWS/Azure), and building secure fintech and crypto systems. Strong expertise in Java, Spring Boot, and distributed systems. :contentReference[oaicite:0]{index=0}
+Experienced Software Engineer with 20+ years of experience designing and building scalable backend systems, microservices, and high-traffic platforms. Proven track record leading engineering teams, delivering cloud-native solutions (AWS/Azure), and building secure fintech and crypto systems. Strong expertise in Java, Spring Boot, and distributed systems.
 
 ---
 
