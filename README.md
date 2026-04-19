@@ -1,6 +1,6 @@
-# [PHONG HONG NGUYEN (PATRICK)](https://phonghong.github.io)
+<!-- # [PHONG HONG NGUYEN (PATRICK)](https://phonghong.github.io)  -->
 
-**Technical Lead / Principal / Senior Software Engineer**  
+**Solutions Architect / Technical Lead / Principal / Senior Software Engineer**  
 📧 phong.hong.us@gmail.com  
 🔗 LinkedIn https://www.linkedin.com/in/phong-n  
 
@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Senior Software Engineer with 20+ years of experience designing and building scalable backend systems, microservices, and high-traffic platforms. Proven track record leading engineering teams, delivering cloud-native solutions (AWS/Azure), and building secure fintech and crypto systems. Strong expertise in Java, Spring Boot, and distributed systems. :contentReference[oaicite:0]{index=0}
+Experienced Software Engineer with 20+ years of experience designing and building scalable backend systems, microservices, and high-traffic platforms. Proven track record leading engineering teams, delivering cloud-native solutions (AWS/Azure), and building secure fintech and crypto systems. Strong expertise in Java, Spring Boot, and distributed systems. :contentReference[oaicite:0]{index=0}
 
 ---
 
